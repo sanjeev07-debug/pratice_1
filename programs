@@ -1,0 +1,21 @@
+#1. For the given list, filter all elements that contains either a or w using regular expression
+#items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner']
+#2. For the given input list, filter all elements that start with den or end with ly
+#items = ['lovely', '1\ndentist', '2 lonely', 'eden', 'fly\n', 'dent']
+#3, For the list items, filter all elements starting with hand and ending with at most one more character or le.
+#items = ['handed', 'hand', 'handled', 'handy', 'unhand', 'hands', 'handle']
+#4. Find the starting index of first occurrence of is or the or was or to for the given input strings.
+#s1 = 'match after the last newline character'
+#s2 = 'and then you want to test'
+#s3 = 'this is good bye then'
+#s4 = 'who was there to see?'
+#5. Write a Python program to check that a string contains only a certain set of characters (in this case a-z, A-Z and 0-9)
+#6. Write a Python program regex to extract email addresses from string
+#7. Write a Python program to extract urls from text file using regular expression.
+#8. Write a Python program to validate password creation and it  must meet the below requirements:
+#a. Minimum of 8 characters
+#b. Maximum of 15 characters
+#c. Must start with uppercase alphabetical characters: A-Z
+#d. Follwed by alpha numeric characters: [a-z][0-9]
+#e. Must have one special character from !@#$%^&*()
+
