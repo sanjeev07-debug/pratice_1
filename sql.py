@@ -2,11 +2,7 @@
 import sqlite3
 
 conn = sqlite3.connect("var.db")
-conn.execute('''create table student
-                (roll int,
-                name text,
-                gpa int);''')
-print("table created")
+
 
 conn.execute('''insert into student 
                 values(1,"sanjeev",75.3);''')
